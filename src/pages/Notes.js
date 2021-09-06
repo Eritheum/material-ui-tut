@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export default function Notes() {
-  return (
-    <div>
-      Notes page
-    </div>
-  )
+function Notes() {
+  return <div>create note</div>;
 }
+
+export default Notes;
